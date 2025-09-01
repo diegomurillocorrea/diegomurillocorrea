@@ -18,7 +18,7 @@ I design scalable UIs, build robust APIs, and deploy to **AWS** with CI/CD.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomurillocreativaconsultores&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomurillocorrea&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -39,8 +39,8 @@ I design scalable UIs, build robust APIs, and deploy to **AWS** with CI/CD.
 
 ## ❤️ GitHub Stats
 
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomurillocreativaconsultores&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=diegomurillocreativaconsultores&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomurillocorrea&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=diegomurillocorrea&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
