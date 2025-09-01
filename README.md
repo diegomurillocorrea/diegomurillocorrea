@@ -1,7 +1,11 @@
 # Hi 👋
 
-I'm **Diego Enrique Murillo Correa**, a **Full Stack Engineer** focused on **React/Next.js** + **.NET/FastAPI**.  
-I design scalable UIs, build robust APIs, and deploy to **AWS** with CI/CD.
+I'm **Diego Enrique Murillo Correa**, a **Full Stack Engineer** with 4+ years shipping production software across
+frontend and backend. I specialize in building React/Next.js interfaces paired with .NET Core and FastAPI services.
+My approach is product-driven: I align technical choices to business outcomes and a clear, accessible UX/UI.
+I thrive in cross-functional teams and can own features end-to-end—discovery, architecture, implementation, and measurement.
+I write concise docs, review code thoughtfully, and communicate trade-offs with stakeholders.
+Open to full-stack or senior frontend roles where reliability, speed, and UX/UI matter.
 
 ---
 
@@ -17,8 +21,6 @@ I design scalable UIs, build robust APIs, and deploy to **AWS** with CI/CD.
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=fff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomurillocorrea&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
